@@ -10,7 +10,7 @@ namespace ConsoleApplication9
     {
         static void Main(string[] args)
         {
-            string LOL = "";
+            string LOL = "asdd";
         }
     }
 }
